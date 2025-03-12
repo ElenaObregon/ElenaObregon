@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Elena Obregón!
 
-<!--
-**ElenaObregon/ElenaObregon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
 
-Here are some ideas to get you started:
+Estudiante de desarrollo web. Transformando ideas en código con pasión y creatividad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Actualmente aprendiendo
+
+- 💻 **Lenguajes:** HTML, CSS, JavaScript  
+- ⚙️ **Frameworks y Librerías:** React, Node.js  
+- 🛢️ **Bases de datos:** SQL, MongoDB  
+
+### 📫 Contáctame
+
+[![Email](https://img.shields.io/badge/Email-elenaobregonl@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elenaobregonl@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elena%20Obreg%C3%B3n-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elena-obreg%C3%B3n-l%C3%B3pez-b86a81159/)
+
+¡Gracias por visitar mi perfil! 🚀
+
